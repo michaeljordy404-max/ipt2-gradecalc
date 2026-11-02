@@ -1,3 +1,7 @@
+[![CI](https://github.com/michaeljordy404-max/ipt2-gradecalc/actions/workflows/ci.yml/badge.svg)](https://github.com/michaeljordy404-max/ipt2-gradecalc/actions/workflows/ci.yml)
+
+# ipt2-gradecalc
+
 # ipt2-gradecalc
 IPT2 Git Collaboration Activity
 # IPT2 Grade Calculator
